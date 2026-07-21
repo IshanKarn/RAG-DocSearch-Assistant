@@ -19,10 +19,10 @@ RAG-DocSearch-Assistant/
 ├── app.py                 # Main application script (Streamlit / UI entry point)
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
 
 ---
 
-```markdown
 ## Setup
 
 ### Prerequisites
@@ -33,6 +33,7 @@ RAG-DocSearch-Assistant/
 ```bash
 git clone [https://github.com/IshanKarn/RAG-DocSearch-Assistant.git](https://github.com/IshanKarn/RAG-DocSearch-Assistant.git)
 cd RAG-DocSearch-Assistant
+```
 
 ---
 
@@ -48,7 +49,6 @@ venv\Scripts\activate
 
 ---
 
-```markdown
 ### Installation
 
 Install all required Python packages using `requirements.txt`:
@@ -56,13 +56,13 @@ Install all required Python packages using `requirements.txt`:
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
-
+```
 ---
 
-```markdown
 ## Run
 
 To launch the assistant application:
 
 ```bash
 streamlit run app.py
+```
