@@ -39,11 +39,11 @@ cd RAG-DocSearch-Assistant
 
 ### Virtual environemnt
 
-# On macOS / Linux
+### On macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
 
-# On Windows
+### On Windows
 python -m venv venv
 venv\Scripts\activate
 
